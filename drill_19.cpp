@@ -48,6 +48,7 @@ int main() {
 	cout << mInt.get() << "\n";
 	cout << mChar.get() << "\n";
 	cout << mDouble.get() << "\n";
+	cout << mString.get() << "\n";
 	cout << mVector.get().size() << "\n";
 
 }
